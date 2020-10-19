@@ -10,3 +10,5 @@ Requirement：
   mtcnn==0.1.0
   
   opencv-python==4.1.1.26
+数据集：https://drive.google.com/drive/folders/1ezW8VmVAqhyts1XzvxP8YZxJLHrlPM3a?usp=sharing
+（train和test文件夹直接放根目录即可）
